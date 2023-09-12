@@ -1,1 +1,1 @@
-# temporary_repositary
+# temporary_repository
